@@ -19,7 +19,7 @@
 </nav>
 <!-- END nav -->
 
-<section class="probootstrap-cover overlay" style="background-image: url(images/bg_1.jpg);">
+<section class="probootstrap-cover overlay" style="background-image: url(images/img1.png);">
     <div class="container">
         <div class="row align-items-center justify-content-center text-center probootstrap-vh-100">
             <div class="col-md-8">
@@ -114,7 +114,7 @@
 </section>
 <!-- END section -->
 
-<section class="probootstrap-cover overlay text-center" style="background-image: url(images/bg_1.jpg);">
+<section class="probootstrap-cover overlay text-center" style="background-image: url(images/img1.png);">
     <div class="container">
         <div class="row probootstrap-vh-75 align-items-center">
             <div class="col-md-12">
